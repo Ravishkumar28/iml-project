@@ -91,5 +91,4 @@ The model is a multi-component deep learning architecture trained end-to-end to 
 
 ---
 
-## 📄 License
-MIT License *(or your course's academic license, if applicable)*
+
