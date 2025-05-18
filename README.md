@@ -90,5 +90,8 @@ The model is a multi-component deep learning architecture trained end-to-end to 
 - **Ravish Kumar** (B23ME1053)
 
 ---
+# Model sample
+https://iml-project-bdbzch7z9r6ibyaouwhq4q.streamlit.app/
+
 
 
